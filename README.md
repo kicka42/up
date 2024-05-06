@@ -12,9 +12,11 @@
 
 ## Screenshots
 
-![UP Screenshot 1](./assets/screenshot1.jpg)
-![UP Screenshot 2](./assets/screenshot2.jpg)
-![UP Screenshot 2](./assets/screenshot3.jpg)
+<img src="./assets/screenshot1.jpg" alt="UP Screenshot 1" width="200"/>
+<img src="./assets/screenshot2.jpg" alt="UP Screenshot 2" width="200"/>
+<img src="./assets/screenshot3.jpg" alt="UP Screenshot 3" width="200"/>
+
+
 
 ## Installation
 
